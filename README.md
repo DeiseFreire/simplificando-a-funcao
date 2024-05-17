@@ -53,7 +53,9 @@ f(x) = 1
 * O código é bem estruturado e organizado, com comentários explicativos para facilitar a compreensão.
 * O código pode ser facilmente modificado para simplificar outras frações envolvendo diferentes funções.
 
+
 ### Conclusões
+
 - O código LaTeX apresentado fornece uma maneira eficiente e organizada de simplificar frações envolvendo funções. 
 - O código é fácil de usar e entender, e pode ser adaptado para diversas aplicações. 
 - O código fornece uma base para a simplificação de frações envolvendo funções.
@@ -63,6 +65,11 @@ f(x) = 1
 
 [Todo o processo do código pode ser visto aqui](https://www.youtube.com/watch?v=zIHWKPmrDz4&list=PLZpH1iUcDo5jySyW1zOz5PV4Yg84VV-fg&index=6)
 
+
 ### Tags
 
 #simplificaçãoDeFrações #EstudoDasFunções #LaTex
+
+### Imagem
+
+![imagem](https://github.com/DeiseFreire/simplificando-a-funcao/blob/main/simplificando-a-fra%C3%A7%C3%A3o.jpg)
