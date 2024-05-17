@@ -65,4 +65,4 @@ f(x) = 1
 
 ### Tags
 
-#simplificação #EstudoDasFunções #LaTex
+#simplificaçãoDeFrações #EstudoDasFunções #LaTex
